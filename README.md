@@ -2,5 +2,6 @@
 
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/) as executed by bsd
-Test, Learn, Play, Produce!
+by [Michael Hartl](http://michaelhartl.com/) as executed by [bsd](mailto:bsd@panix.com)
+
+*Test, Learn, Play, Produce*
